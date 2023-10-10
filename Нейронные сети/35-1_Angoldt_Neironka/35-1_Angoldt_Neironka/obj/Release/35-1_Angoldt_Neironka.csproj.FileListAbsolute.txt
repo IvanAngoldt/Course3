@@ -1,0 +1,11 @@
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\bin\Release\35-1_Angoldt_Neironka.exe.config
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\bin\Release\35-1_Angoldt_Neironka.exe
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\bin\Release\35-1_Angoldt_Neironka.pdb
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\35-1_Angoldt_Neironka.csproj.AssemblyReference.cache
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\35-1_Angoldt_Neironka.csproj.SuggestedBindingRedirects.cache
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\_35_1_Angoldt_Neironka.FormMain.resources
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\_35_1_Angoldt_Neironka.Properties.Resources.resources
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\35-1_Angoldt_Neironka.csproj.GenerateResource.cache
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\35-1_Angoldt_Neironka.csproj.CoreCompileInputs.cache
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\35-1_Angoldt_Neironka.exe
+Z:\Нейронные сети\35-1_Angoldt_Neironka\35-1_Angoldt_Neironka\obj\Release\35-1_Angoldt_Neironka.pdb
