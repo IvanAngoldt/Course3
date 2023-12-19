@@ -1,0 +1,33 @@
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.AssemblyReference.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.SuggestedBindingRedirects.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\_35_1_Angoldt_neuronumbers.Form_Main.resources
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.GenerateResource.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.CoreCompileInputs.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.exe.config
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.exe
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.pdb
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\_35_1_Angoldt_neuronumbers.Properties.Resources.resources
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.exe
+Z:\35-1_Drozdov_neuronumbers\35-1_Drozdov_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.pdb
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.exe.config
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.exe
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.pdb
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.AssemblyReference.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.SuggestedBindingRedirects.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\_35_1_Angoldt_neuronumbers.Form_Main.resources
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\_35_1_Angoldt_neuronumbers.Properties.Resources.resources
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.GenerateResource.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.CoreCompileInputs.cache
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.exe
+Z:\35-1_Drozdov_neuronumbers\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.pdb
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.exe.config
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.exe
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\bin\Debug\35-1_Angoldt_neuronumbers.pdb
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.AssemblyReference.cache
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.SuggestedBindingRedirects.cache
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\_35_1_Angoldt_neuronumbers.Form_Main.resources
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\_35_1_Angoldt_neuronumbers.Properties.Resources.resources
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.GenerateResource.cache
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.csproj.CoreCompileInputs.cache
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.exe
+Z:\Нейронные сети\35-1_Angoldt_neuronumbers\obj\Debug\35-1_Angoldt_neuronumbers.pdb
